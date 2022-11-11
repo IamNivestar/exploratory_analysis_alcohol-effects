@@ -8,3 +8,4 @@ A base de dados contém informações sobre o desempenho de alunos no ensino sec
 
 O objetivo do projeto é obter insights sobre os dados e criar visualizações para a geração de um infográfico. Para isso o projeto irá se concentrar nos insights relacionados ao consumo de álcool.
 
+![infograficot](infografico_v1.png?raw=true "Title")
